@@ -1,3 +1,12 @@
-body {
-  background-color: #fff;
-color: #2a2a2a;}
+h1,h2,h3 { color:blue}
+.HTML-bold {
+  font-weight: 700;
+}
+.HTML-I{
+  font-style: italic;
+}
+.SGML
+{text-decoration: underline;}
+.href
+{text-decoration: none;}
+
